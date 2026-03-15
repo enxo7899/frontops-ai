@@ -1,0 +1,439 @@
+{
+  "nav": {
+    "home": "Home",
+    "product": "Product",
+    "solutions": "Solutions",
+    "about": "About",
+    "pilot": "Pilot Program",
+    "contact": "Contact",
+    "earlyAccess": "Request Early Access",
+    "language": "Shqip"
+  },
+  "hero": {
+    "badge": "The AI Employee Your Business Needs",
+    "title": "Stop Losing Customers to",
+    "titleWords": ["Slow Replies", "Missed DMs", "Unanswered Calls", "Lost Leads", "Messy Inboxes"],
+    "subtitle": "Imagine having a dedicated employee who works 24/7 on your WhatsApp, Instagram, and Messenger — answering every customer, following up on every lead, and closing more sales while you sleep. That's FrontOps AI.",
+    "cta1": "Request Early Access",
+    "cta2": "Join Pilot Program",
+    "cta3": "Book a Demo",
+    "stats": {
+      "channels": "5+",
+      "channelsLabel": "Channels Connected",
+      "response": "24/7",
+      "responseLabel": "Always Responding",
+      "leads": "0",
+      "leadsLabel": "Missed Leads"
+    }
+  },
+  "problem": {
+    "badge": "Sound Familiar?",
+    "title": "This Is Costing You Money Every Single Day",
+    "subtitle": "If you run a business that talks to customers — through WhatsApp, Instagram, or any messaging app — you're probably dealing with these problems right now.",
+    "problems": [
+      {
+        "title": "You're Losing Sales While You Sleep",
+        "description": "A customer messages you at 10 PM asking about a product. You see it at 8 AM. By then, they already bought from someone who replied faster. This happens every single day."
+      },
+      {
+        "title": "Your DMs Are a Disaster",
+        "description": "Messages from Instagram, WhatsApp, and Messenger are scattered everywhere. You forget who asked what. Important requests get buried. There's no system — just chaos."
+      },
+      {
+        "title": "You Can't Be Available 24/7",
+        "description": "You're one person (or a small team). You can't reply instantly to every message while also running your business. But your customers expect fast replies — or they move on."
+      },
+      {
+        "title": "Your Replies Are Inconsistent",
+        "description": "Sometimes you write a great response. Sometimes you rush. When someone else on your team replies, the tone is different. Your brand feels unprofessional."
+      },
+      {
+        "title": "You Can't Afford to Hire Yet",
+        "description": "You need someone to handle customer messages full-time, but a dedicated receptionist or sales assistant costs €500-800/month. That's a big expense for a growing business."
+      },
+      {
+        "title": "Interested Customers Disappear",
+        "description": "Someone asks about your service, you reply, but then they don't respond immediately. Without a follow-up system, those warm leads go cold and you lose the sale."
+      }
+    ]
+  },
+  "whyNotChatgpt": {
+    "badge": "The Real Difference",
+    "title": "Why Can't I Just Use ChatGPT?",
+    "subtitle": "Great question. Here's the honest answer — and it's the most important thing to understand about what we do.",
+    "explanation": "ChatGPT is like a very smart friend you can ask questions to. But it doesn't know your business, it can't talk to your customers, and it can't manage your sales. FrontOps AI is completely different.",
+    "chatgpt": {
+      "title": "ChatGPT / Regular AI Tools",
+      "subtitle": "You go to them. They answer. That's it.",
+      "points": [
+        "YOU have to open it, type a question, and copy-paste the answer to your customer",
+        "It doesn't connect to your WhatsApp, Instagram, or any messaging app",
+        "It knows nothing about YOUR business — your products, prices, availability",
+        "It can't remember your customers or their previous conversations",
+        "It can't follow up with leads or manage your sales pipeline",
+        "It's a tool you use. It doesn't work for you."
+      ]
+    },
+    "frontops": {
+      "title": "FrontOps AI Agent",
+      "subtitle": "It works FOR you. Automatically. 24/7.",
+      "points": [
+        "It plugs directly into YOUR WhatsApp, Instagram, Messenger, and website",
+        "It knows YOUR products, prices, services, and how you talk to customers",
+        "It answers customers automatically — in YOUR voice, with YOUR knowledge",
+        "It remembers every customer and every conversation they've had with you",
+        "It follows up on leads, qualifies buyers, and helps close sales",
+        "It's a digital employee. It shows up, does the work, and reports to you."
+      ]
+    },
+    "bottomLine": "Think of it this way: ChatGPT is like a dictionary — useful, but you do all the work. FrontOps AI is like hiring a trained sales assistant who knows your business inside out, works 24/7, speaks every language, never calls in sick, and costs a fraction of a real employee."
+  },
+  "notChatbot": {
+    "badge": "Not a Chatbot",
+    "title": "Forget Everything You Know About Chatbots",
+    "subtitle": "If you've ever been frustrated by a chatbot that keeps sending you in circles, we understand. FrontOps AI is nothing like that. Here's the difference.",
+    "comparison": {
+      "chatbot": {
+        "title": "Old-School Chatbots",
+        "points": [
+          "Ask you to press 1, 2, or 3 — rigid menus that go nowhere",
+          "Give the same canned response to every question",
+          "Can't understand what customers actually mean",
+          "Forget everything the moment the chat ends",
+          "Frustrate your customers and make your business look bad",
+          "No ability to sell, recommend, or follow up"
+        ]
+      },
+      "frontops": {
+        "title": "FrontOps AI Employee",
+        "points": [
+          "Has natural conversations — understands slang, context, and intent",
+          "Gives personalized answers based on your actual business data",
+          "Knows your products, prices, and availability in real-time",
+          "Remembers every customer — their history, preferences, and past orders",
+          "Makes your business look professional and responsive 24/7",
+          "Actively sells, recommends products, qualifies leads, and follows up"
+        ]
+      }
+    }
+  },
+  "beforeAfter": {
+    "badge": "The Transformation",
+    "title": "Your Business: Before and After FrontOps AI",
+    "subtitle": "See what changes when you add an AI employee to your team.",
+    "before": {
+      "title": "Without FrontOps AI",
+      "items": [
+        "You wake up to 30+ unread messages across 3 platforms",
+        "You spend 2 hours just replying to yesterday's DMs",
+        "3 potential customers already bought from competitors",
+        "You forget to follow up with that interested buyer from last week",
+        "Your Instagram replies are slow — customers think you're unprofessional",
+        "You're exhausted and still haven't done any actual work on your business"
+      ]
+    },
+    "after": {
+      "title": "With FrontOps AI",
+      "items": [
+        "Every message was answered instantly — even at 3 AM",
+        "You open a clean dashboard showing all conversations organized",
+        "FrontOps AI qualified 5 hot leads while you slept",
+        "Automatic follow-ups are sent — 2 customers confirmed orders",
+        "Your customers tell you how fast and professional your service is",
+        "You focus on growing your business while FrontOps AI handles the frontline"
+      ]
+    }
+  },
+  "howItWorks": {
+    "badge": "Simple Setup",
+    "title": "Up and Running in Less Than a Day",
+    "subtitle": "You don't need to be technical. You don't need to change how you work. We connect FrontOps AI to your existing channels and train it on your business.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Connect Your Channels",
+        "description": "We plug FrontOps AI into your WhatsApp Business, Instagram, Messenger, and website. It takes minutes, not weeks."
+      },
+      {
+        "step": "02",
+        "title": "Teach It Your Business",
+        "description": "Tell us about your products, services, prices, and how you like to communicate. The AI learns your brand voice and business rules."
+      },
+      {
+        "step": "03",
+        "title": "It Starts Working For You",
+        "description": "Customers message you → FrontOps AI understands what they need → replies naturally → qualifies leads → organizes everything → alerts you when needed."
+      },
+      {
+        "step": "04",
+        "title": "You Stay In Control",
+        "description": "Review conversations, jump in anytime, adjust how the AI responds. It's your employee — you're still the boss."
+      },
+      {
+        "step": "05",
+        "title": "Watch Your Sales Grow",
+        "description": "Faster replies mean more sales. Better follow-up means fewer lost leads. 24/7 availability means you never miss an opportunity again."
+      }
+    ]
+  },
+  "features": {
+    "badge": "What It Does For You",
+    "title": "One AI Employee That Handles Everything",
+    "subtitle": "Think of everything a great receptionist, sales assistant, and customer service agent does — FrontOps AI does all of that, across every channel, simultaneously.",
+    "items": [
+      {
+        "title": "Answers on WhatsApp & Instagram",
+        "description": "Customers DM you on Instagram or WhatsApp? FrontOps AI replies instantly with accurate information about your products and services — no delays."
+      },
+      {
+        "title": "Finds Your Best Leads",
+        "description": "Not every message is a sale. FrontOps AI identifies which customers are ready to buy and prioritizes them — so you focus on the money."
+      },
+      {
+        "title": "Follows Up Automatically",
+        "description": "That customer who was interested but didn't reply? FrontOps AI sends a polite, natural follow-up at the right time. No more lost opportunities."
+      },
+      {
+        "title": "Remembers Every Customer",
+        "description": "Returning customer? The AI knows their name, what they bought before, and what they like. Every interaction feels personal and professional."
+      },
+      {
+        "title": "Hands Off to Your Team",
+        "description": "When something needs a human — a complex question, a VIP client, a complaint — FrontOps AI transfers the conversation to the right person with all context."
+      },
+      {
+        "title": "One Inbox for Everything",
+        "description": "WhatsApp, Instagram, Messenger, website chat — all in one dashboard. No more switching between apps. No more losing messages."
+      },
+      {
+        "title": "Understands Voice Notes",
+        "description": "Customer sends a voice message? FrontOps AI listens, understands it, and responds appropriately. No more replaying voice notes 5 times."
+      },
+      {
+        "title": "AI Phone Receptionist",
+        "description": "Coming soon: an AI that picks up your business calls, books appointments, answers questions, and routes calls — like a real receptionist."
+      }
+    ]
+  },
+  "sectors": {
+    "badge": "Built For You",
+    "title": "Works for Any Business That Talks to Customers",
+    "subtitle": "Whether you sell products, offer services, or take bookings — if customers message you, FrontOps AI can help you sell more and serve better.",
+    "items": [
+      {
+        "title": "Fashion & Online Shops",
+        "description": "Sell more on Instagram and WhatsApp. FrontOps AI answers product questions, checks stock, suggests matching items, and processes orders — while you manage your shop.",
+        "scenario": "11 PM: A customer DMs your Instagram asking if a dress comes in size M. FrontOps AI checks your inventory, confirms it's available, suggests matching shoes, and takes the order. You wake up to a confirmed sale."
+      },
+      {
+        "title": "Hotels & Restaurants",
+        "description": "Never miss a reservation again. FrontOps AI handles room inquiries, table bookings, guest questions, and special requests — in multiple languages, 24/7.",
+        "scenario": "A tourist messages on WhatsApp in English asking about room availability for next Saturday. FrontOps AI shows available rooms with prices, handles the booking, sends confirmation, and adds a restaurant recommendation."
+      },
+      {
+        "title": "Clinics, Dentists & Salons",
+        "description": "Automate appointment bookings, send reminders, handle cancellations, and answer common questions — so your front desk can focus on patients.",
+        "scenario": "A patient messages at 7 AM to book a teeth cleaning. FrontOps AI shows available time slots, confirms the appointment, sends a calendar reminder, and follows up the day before. Zero manual work."
+      },
+      {
+        "title": "Service & Consulting Firms",
+        "description": "Qualify potential clients, gather project details, provide initial pricing, and schedule consultations — automatically.",
+        "scenario": "A potential client asks about web design services and pricing. FrontOps AI asks about their needs, budget, and timeline, provides a rough quote, and books a consultation call with your team."
+      }
+    ]
+  },
+  "showcase": {
+    "badge": "See It In Action",
+    "title": "Your AI Employee's Command Center",
+    "subtitle": "This is what you see when you log in — every customer conversation, every lead, every insight, all in one place.",
+    "screens": {
+      "inbox": "Unified Inbox",
+      "leads": "Lead Pipeline",
+      "voice": "Voice Intelligence",
+      "analytics": "Performance",
+      "playbook": "AI Playbooks"
+    }
+  },
+  "voiceAi": {
+    "badge": "Coming Next",
+    "title": "Soon It Won't Just Message. It Will Pick Up The Phone.",
+    "subtitle": "We're building AI that answers your business phone calls — booking appointments, answering questions, and routing calls to your team. Imagine never missing a call again.",
+    "features": [
+      "AI answers your business phone calls",
+      "Understands voice messages and responds",
+      "Books appointments over the phone",
+      "Speaks multiple languages naturally",
+      "Routes important calls to your team"
+    ],
+    "cta": "Coming in 2026"
+  },
+  "integrations": {
+    "badge": "Your Channels",
+    "title": "It Works Where Your Customers Already Are",
+    "subtitle": "FrontOps AI plugs into the apps your customers already use to reach you. No new tools for them to download. No friction.",
+    "channels": [
+      { "name": "WhatsApp", "status": "Live" },
+      { "name": "Instagram", "status": "Live" },
+      { "name": "Messenger", "status": "Live" },
+      { "name": "Website Chat", "status": "Live" },
+      { "name": "Email", "status": "Coming Soon" },
+      { "name": "Voice / Calls", "status": "Coming Soon" }
+    ]
+  },
+  "socialProof": {
+    "badge": "Join Early",
+    "title": "Be Part of Something New",
+    "items": [
+      "Pilot program launching soon — limited spots available",
+      "Built for businesses in Kosovo, Albania, and the region — scaling internationally",
+      "Early partners get direct input on features and priority onboarding",
+      "Join 50+ businesses already on the waitlist"
+    ]
+  },
+  "investor": {
+    "badge": "The Bigger Picture",
+    "title": "Why This Matters — For Business Owners and Beyond",
+    "subtitle": "FrontOps AI isn't just another tech tool. It's a new category of AI — purpose-built agents that work inside businesses, not general-purpose chatbots you go to for answers.",
+    "points": [
+      {
+        "title": "AI Agents, Not AI Assistants",
+        "description": "The difference is critical: an assistant waits for you to ask. An agent works proactively — it monitors, responds, qualifies, follows up, and reports. FrontOps AI is an agent."
+      },
+      {
+        "title": "Built for Any Customer-Facing Business",
+        "description": "Retail, hospitality, healthcare, services — any business that communicates with customers can use FrontOps AI. One platform, infinite use cases."
+      },
+      {
+        "title": "Starting Local, Built to Scale Globally",
+        "description": "We're launching in Kosovo and Albania because we know this market. But the technology works in any language, any country, any industry."
+      },
+      {
+        "title": "The Future: Voice + Messaging + Operations",
+        "description": "Today it's WhatsApp and Instagram. Tomorrow it's phone calls, voice assistants, and full operational automation. We're building the operating system for customer-facing work."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Every Minute Without FrontOps AI Is a Missed Sale",
+    "subtitle": "Your competitors are getting faster. Your customers expect instant replies. Don't let another lead slip away because no one was there to answer.",
+    "cta1": "Request Early Access",
+    "cta2": "Join Pilot Program",
+    "cta3": "Book a Demo"
+  },
+  "footer": {
+    "description": "AI-powered customer operations platform. Your intelligent employee for front-desk workflows, lead management, and customer communication.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "links": {
+      "platform": "Platform",
+      "features": "Features",
+      "integrations": "Integrations",
+      "pricing": "Pricing",
+      "about": "About",
+      "contact": "Contact",
+      "pilot": "Pilot Program",
+      "careers": "Careers",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "copyright": "© 2025 FrontOps AI. All rights reserved.",
+    "madeIn": "Built in Kosovo 🇽🇰"
+  },
+  "product": {
+    "hero": {
+      "badge": "The Platform",
+      "title": "One AI Employee. Every Customer Channel.",
+      "subtitle": "FrontOps AI is a complete customer operations platform that replaces the need for dedicated front-desk staff — handling communication, qualification, follow-up, and organization across every channel."
+    },
+    "capabilities": {
+      "title": "What FrontOps AI Can Do",
+      "items": [
+        { "title": "Answer Customer Questions", "description": "Instantly respond to inquiries with accurate, context-aware answers based on your business data." },
+        { "title": "Reply in Your Style", "description": "The AI learns your tone, brand voice, and communication style — every reply feels authentically yours." },
+        { "title": "Qualify Leads", "description": "Automatically score and categorize leads based on intent, budget, timeline, and custom criteria." },
+        { "title": "Recommend Products", "description": "Suggest relevant products or services based on customer needs, preferences, and browsing history." },
+        { "title": "Follow Up Automatically", "description": "Send timely, personalized follow-ups to warm leads — no manual tracking required." },
+        { "title": "Handle Bookings", "description": "Manage appointments, reservations, and scheduling directly within conversations." },
+        { "title": "Organize DMs", "description": "Tag, categorize, and prioritize incoming messages across all channels automatically." },
+        { "title": "Summarize Conversations", "description": "Get instant summaries of long conversations — key details, action items, and next steps." },
+        { "title": "Route to Humans", "description": "Seamlessly hand off complex cases to the right team member with full context." },
+        { "title": "Process Voice Notes", "description": "Transcribe and understand voice messages, then respond or take action accordingly." }
+      ]
+    }
+  },
+  "solutions": {
+    "hero": {
+      "badge": "Solutions",
+      "title": "Tailored AI Operations for Your Industry",
+      "subtitle": "FrontOps AI adapts to the unique workflows of your business — whether you're managing a boutique, a hotel, a clinic, or a service firm."
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "About Us",
+      "title": "Building the Future of Customer Operations",
+      "subtitle": "FrontOps AI was born from a simple observation: customer-facing businesses spend too much time on repetitive communication and lose leads because of it."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To give every customer-facing business an AI employee that never sleeps, never forgets, and never misses a lead. We're building the operational layer between businesses and their customers."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "A world where no business loses a customer due to slow communication. Where every inquiry is handled with care, speed, and intelligence — regardless of the business's size or team."
+    },
+    "values": [
+      { "title": "Operational Excellence", "description": "We build systems that work reliably, every time, for every customer interaction." },
+      { "title": "Human-Centered AI", "description": "Our AI enhances human teams — it doesn't replace them. It handles the repetitive so your team can focus on what matters." },
+      { "title": "Practical Innovation", "description": "We don't chase hype. We solve real operational problems for real businesses." },
+      { "title": "Regional Impact", "description": "Starting in Kosovo and Albania, we're proving that world-class AI products can be built anywhere." }
+    ]
+  },
+  "pilotPage": {
+    "hero": {
+      "badge": "Pilot Program",
+      "title": "Be Among the First to Deploy an AI Employee",
+      "subtitle": "We're selecting a small group of forward-thinking businesses to pilot FrontOps AI. Get early access, priority support, and direct influence on the product."
+    },
+    "benefits": [
+      { "title": "Early Access", "description": "Be among the first businesses to use FrontOps AI before public launch." },
+      { "title": "Priority Support", "description": "Direct line to our team for onboarding, customization, and optimization." },
+      { "title": "Product Input", "description": "Your feedback shapes the product. Pilot partners help define features and workflows." },
+      { "title": "Founding Partner Pricing", "description": "Lock in special pricing as a founding partner — significantly below future public rates." }
+    ],
+    "ideal": {
+      "title": "Ideal Pilot Partners",
+      "description": "We're looking for customer-facing businesses that handle significant message volume and want to modernize their customer operations.",
+      "criteria": [
+        "Receive 20+ customer inquiries daily via WhatsApp or Instagram",
+        "Operate in fashion, hospitality, clinics, or professional services",
+        "Have a team of 2-50 people",
+        "Based in Kosovo, Albania, or the broader region",
+        "Open to providing feedback and iterating together"
+      ]
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "badge": "Get in Touch",
+      "title": "Let's Talk About Your Customer Operations",
+      "subtitle": "Whether you want to learn more, join the pilot program, or explore a partnership — we'd love to hear from you."
+    },
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company Name",
+      "phone": "Phone Number",
+      "interest": "I'm interested in...",
+      "interestOptions": ["Early Access", "Pilot Program", "Book a Demo", "Partnership", "Investment"],
+      "message": "Your Message",
+      "submit": "Send Message",
+      "success": "Thank you! We'll be in touch within 24 hours."
+    },
+    "info": {
+      "email": "hello@frontops-ai.com",
+      "location": "Prishtina, Kosovo"
+    }
+  }
+}

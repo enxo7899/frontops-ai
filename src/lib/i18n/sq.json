@@ -1,0 +1,439 @@
+{
+  "nav": {
+    "home": "Kryefaqja",
+    "product": "Produkti",
+    "solutions": "Zgjidhjet",
+    "about": "Rreth Nesh",
+    "pilot": "Programi Pilot",
+    "contact": "Kontakti",
+    "earlyAccess": "Kërko Qasje të Hershme",
+    "language": "English"
+  },
+  "hero": {
+    "badge": "Punonjësi AI që Biznesi Juaj Ka Nevojë",
+    "title": "Mos Humbni Më Klientë nga",
+    "titleWords": ["Përgjigje të Ngadalta", "DM të Papërgjigjura", "Thirrje pa Përgjigje", "Klientë të Humbur", "Inbox Kaotik"],
+    "subtitle": "Imagjinoni një punonjës të dedikuar që punon 24/7 në WhatsApp, Instagram dhe Messenger — duke iu përgjigjur çdo klienti, duke ndjekur çdo mundësi shitjeje, dhe duke mbyllur më shumë shitje ndërsa ju flini. Ky është FrontOps AI.",
+    "cta1": "Kërko Qasje të Hershme",
+    "cta2": "Bashkohu Programit Pilot",
+    "cta3": "Rezervo një Demo",
+    "stats": {
+      "channels": "5+",
+      "channelsLabel": "Kanale të Lidhura",
+      "response": "24/7",
+      "responseLabel": "Gjithmonë Duke Përgjigjur",
+      "leads": "0",
+      "leadsLabel": "Klientë të Humbur"
+    }
+  },
+  "problem": {
+    "badge": "Problemi",
+    "title": "Biznesi Juaj Humbet Klientë Ndërsa Ju Flini",
+    "subtitle": "Çdo mesazh pa përgjigje është një mundësi e humbur. Shumica e bizneseve që punojnë me klientë vuajnë nga të njëjtat boshllëqe operacionale.",
+    "problems": [
+      {
+        "title": "Klientë të Humbur",
+        "description": "Klientë potencialë ju dërgojnë mesazh në WhatsApp ose Instagram. Deri kur përgjigjeni, ata kanë shkuar tek konkurrenti."
+      },
+      {
+        "title": "Inbox i Mbingarkuar",
+        "description": "DM-të, mesazhet dhe pyetjet grumbullohen nëpër kanale. Nuk ka sistem, nuk ka organizim — vetëm kaos."
+      },
+      {
+        "title": "Përgjigje të Ngadalta",
+        "description": "Kur pronari është i zënë, i sëmurë ose offline, komunikimi me klientët ndalet. Cilësia e përgjigjeve ndryshon shumë."
+      },
+      {
+        "title": "Kërkesa të Fragmentuara",
+        "description": "Pyetjet e klientëve vijnë nga platforma të ndryshme pa një pamje të unifikuar. Detaje të rëndësishme humbasin ndërmjet kanaleve."
+      },
+      {
+        "title": "Punësim i Parakohshëm",
+        "description": "Keni nevojë për ndihmë me komunikimin e klientëve, por punësimi i një punonjësi me kohë të plotë është i shtrenjtë dhe i parakohshëm."
+      },
+      {
+        "title": "Pa Sistem Ndjekjeje",
+        "description": "Klientët e interesuar humbasin sepse nuk ka proces automatik ndjekjeje ose kualifikimi të vendosur."
+      }
+    ]
+  },
+  "whyNotChatgpt": {
+    "badge": "Dallimi i Vërtetë",
+    "title": "Pse Nuk Mund të Përdor Thjesht ChatGPT?",
+    "subtitle": "Pyetje e mirë. Ja përgjigja e sinqertë — dhe është gjëja më e rëndësishme për të kuptuar rreth asaj që ne bëjmë.",
+    "explanation": "ChatGPT është si një mik shumë i zgjuar që mund t'i bësh pyetje. Por nuk e njeh biznesin tënd, nuk mund të flasë me klientët e tu, dhe nuk mund të menaxhojë shitjet e tua. FrontOps AI është krejtësisht ndryshe.",
+    "chatgpt": {
+      "title": "ChatGPT / Mjete Zakonshme AI",
+      "subtitle": "Ti shkon tek ato. Ato përgjigjen. Kaq.",
+      "points": [
+        "TI duhet ta hapësh, të shkruash pyetje dhe të kopjosh përgjigjen te klienti",
+        "Nuk lidhet me WhatsApp, Instagram ose asnjë aplikacion mesazhesh",
+        "Nuk di asgjë për BIZNESIN TËND — produktet, çmimet, disponueshmërinë",
+        "Nuk mund të mbajë mend klientët ose bisedat e tyre të mëparshme",
+        "Nuk mund të ndjekë klientë ose të menaxhojë shitjet",
+        "Është një mjet që ti e përdor. Nuk punon për ty."
+      ]
+    },
+    "frontops": {
+      "title": "Agjenti FrontOps AI",
+      "subtitle": "Punon PËR ty. Automatikisht. 24/7.",
+      "points": [
+        "Lidhet direkt me WhatsApp, Instagram, Messenger dhe faqen tënde",
+        "Njeh produktet, çmimet, shërbimet TUA dhe si flet me klientë",
+        "U përgjigjet klientëve automatikisht — me ZËRIN tënd, me NJOHURITË e tua",
+        "Mban mend çdo klient dhe çdo bisedë që kanë pasur me ty",
+        "Ndjek klientë, kualifikon blerës dhe ndihmon të mbyllësh shitje",
+        "Është punonjës dixhital. Paraqitet, bën punën dhe raporton tek ti."
+      ]
+    },
+    "bottomLine": "Mendoje kështu: ChatGPT është si një fjalor — i dobishëm, por ti bën gjithë punën. FrontOps AI është si të punësosh një asistent shitjesh të trajnuar që e njeh biznesin tënd brenda e jashtë, punon 24/7, flet çdo gjuhë, nuk merr kurrë ditë pushimi, dhe kushton një pjesë të vogël të një punonjësi real."
+  },
+  "beforeAfter": {
+    "badge": "Transformimi",
+    "title": "Biznesi Juaj: Para dhe Pas FrontOps AI",
+    "subtitle": "Shikoni çfarë ndryshon kur shtoni një punonjës AI në ekipin tuaj.",
+    "before": {
+      "title": "Pa FrontOps AI",
+      "items": [
+        "Zgjoheni me 30+ mesazhe të palexuara nëpër 3 platforma",
+        "Shpenzoni 2 orë duke iu përgjigjur DM-ve të djeshme",
+        "3 klientë potencialë tashmë blenë nga konkurrenti",
+        "Harroni të ndiqni atë blerësin e interesuar nga java e kaluar",
+        "Përgjigjet tuaja në Instagram janë të ngadalta — klientët mendojnë jeni joprofesional",
+        "Jeni të lodhur dhe ende nuk keni bërë asnjë punë reale për biznesin"
+      ]
+    },
+    "after": {
+      "title": "Me FrontOps AI",
+      "items": [
+        "Çdo mesazh u përgjigj menjëherë — edhe në 3 të natës",
+        "Hapni një panel të pastër që tregon të gjitha bisedat të organizuara",
+        "FrontOps AI kualifikoi 5 klientë të nxehtë ndërsa ju flinit",
+        "Ndjekjet automatike u dërguan — 2 klientë konfirmuan porositë",
+        "Klientët tuaj thonë sa e shpejtë dhe profesionale është shërbimi juaj",
+        "Fokusoheni në rritjen e biznesit ndërsa FrontOps AI menaxhon vijën e parë"
+      ]
+    }
+  },
+  "notChatbot": {
+    "badge": "Jo Chatbot",
+    "title": "Harroni Gjithçka që Dini për Chatbot-et",
+    "subtitle": "Nëse keni qenë ndonjëherë të frustruar nga një chatbot që ju dërgon në rrathë, ne e kuptojmë. FrontOps AI nuk është aspak i tillë.",
+    "comparison": {
+      "chatbot": {
+        "title": "Chatbot Tradicional",
+        "points": [
+          "Ndjek pemë vendimesh të ngurta",
+          "Pa memorie ndërmjet bisedave",
+          "Përgjigje gjenerike dhe robotike",
+          "Nuk mund të kualifikojë klientë",
+          "Pa aftësi ndjekjeje",
+          "Frustruesion klientët me cikle"
+        ]
+      },
+      "frontops": {
+        "title": "Punonjësi AI FrontOps",
+        "points": [
+          "Kupton kontekstin dhe qëllimin",
+          "Mban mend historikun e klientit",
+          "Përgjigjet me zërin e biznesit tuaj",
+          "Kualifikon dhe vlerëson klientë automatikisht",
+          "Ndjek klientët në mënyrë proaktive",
+          "Kalon rastet komplekse te ekipi juaj"
+        ]
+      }
+    }
+  },
+  "howItWorks": {
+    "badge": "Si Funksionon",
+    "title": "Nga Pyetja te Veprimi, Automatikisht",
+    "subtitle": "FrontOps AI menaxhon tërë rrjedhën e komunikimit me klientë — nga kontakti i parë deri te zgjidhja ose eskalimi.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Mesazhi Mbërrin",
+        "description": "Një klient dërgon mesazh përmes WhatsApp, Instagram, Messenger, ose chat-it të faqes suaj."
+      },
+      {
+        "step": "02",
+        "title": "AI Kupton Kontekstin",
+        "description": "FrontOps AI analizon mesazhin, identifikon qëllimin dhe merr historikun relevant të klientit dhe kontekstin e biznesit."
+      },
+      {
+        "step": "03",
+        "title": "Përgjigjet Si Biznesi Juaj",
+        "description": "AI përgjigjet natyrshëm me zërin e markës suaj — duke rekomanduar produkte, përgjigjur pyetje ose mbledhur informacion."
+      },
+      {
+        "step": "04",
+        "title": "Kualifikon & Organizon",
+        "description": "Klientët vlerësohen dhe kategorizohen. Bisedat përmblidhen. Kërkesat organizohen sipas prioritetit dhe llojit."
+      },
+      {
+        "step": "05",
+        "title": "Drejton & Eskalon",
+        "description": "Rastet komplekse kalohen pa ndërprerje te anëtari i duhur i ekipit me kontekst të plotë dhe historik bisede."
+      }
+    ]
+  },
+  "features": {
+    "badge": "Aftësitë Kryesore",
+    "title": "Gjithçka që Bën një Punonjës Recepsioni, e Mundësuar nga AI",
+    "subtitle": "FrontOps AI kombinon komunikim inteligjent, menaxhim të klientëve dhe automatizim operacional në një platformë.",
+    "items": [
+      {
+        "title": "Rrjedha WhatsApp & Instagram",
+        "description": "Integrim natyror me kanalet që klientët tuaj tashmë përdorin. Menaxhoni pyetje, rezervime dhe mbështetje nga një pamje e unifikuar."
+      },
+      {
+        "title": "Kualifikimi i Klientëve",
+        "description": "Identifikoni automatikisht klientët me interes të lartë, vlerësoni ata bazuar në kriteret tuaja dhe prioritizoni veprimet."
+      },
+      {
+        "title": "Ndjekje e Zgjuar",
+        "description": "Mos lejoni asnjë klient të interesuar të ftohet. FrontOps AI dërgon ndjekje të personalizuara në kohën e duhur."
+      },
+      {
+        "title": "Memoria e Klientit",
+        "description": "Çdo ndërveprim mbahet mend. AI ndërton një profil për çdo klient, duke mundësuar komunikim të personalizuar në shkallë."
+      },
+      {
+        "title": "Kalimi te Ekipi",
+        "description": "Kur nevojitet vëmendje njerëzore, AI kalon bisedat te personi i duhur me kontekst të plotë dhe veprime të sugjeruara."
+      },
+      {
+        "title": "Operacione të Unifikuara",
+        "description": "Një panel për të gjitha kanalet. Biseda të organizuara, pyetje të etiketuara dhe dukshmëri e qartë operacionale."
+      },
+      {
+        "title": "Mbështetje për Mesazhe Zanore",
+        "description": "Procesoni dhe përgjigjuni mesazheve zanore me inteligjencë. Transkriptoni, kuptoni dhe veproni mbi mesazhet zanore."
+      },
+      {
+        "title": "Recepsion AI me Zë",
+        "description": "Së shpejti: Menaxhoni thirrjet hyrëse me një recepsionist AI që rezervon takime, përgjigjet pyetjeve dhe drejton thirrjet."
+      }
+    ]
+  },
+  "sectors": {
+    "badge": "Rastet e Përdorimit",
+    "title": "Ndërtuar për Biznese që Punojnë me Klientë",
+    "subtitle": "Duke nisur me raste të fokusuara përdorimi. Duke u zgjeruar në një platformë më të gjerë të operacioneve me klientë.",
+    "items": [
+      {
+        "title": "Modë & Retail",
+        "description": "Menaxhoni pyetje për produkte, rekomandoni artikuj, procesoni porosi dhe menaxhoni kthimet përmes Instagram dhe WhatsApp.",
+        "scenario": "Një klient dërgon DM për një fustan në Instagram. FrontOps AI kontrollon disponueshmërinë, sugjeron aksesorë përshtatës dhe konfirmon porosinë — ndërsa ju fokusoheni në dyqanin tuaj."
+      },
+      {
+        "title": "Mikpritja & Hotelet",
+        "description": "Menaxhoni rezervime, përgjigjuni pyetjeve të mysafirëve, menaxhoni ndryshime rezervimesh dhe ofroni rekomandime lokale.",
+        "scenario": "Një mysafir dërgon mesazh në WhatsApp duke pyetur për disponueshmërinë e dhomave. FrontOps AI kontrollon datat, ndan opsionet me foto, menaxhon rezervimin dhe dërgon konfirmimin — 24/7."
+      },
+      {
+        "title": "Klinika & Sallone",
+        "description": "Planifikoni takime, dërgoni kujtesa, menaxhoni anulime dhe përgjigjuni pyetjeve për shërbime automatikisht.",
+        "scenario": "Një pacient dërgon mesazh për të rezervuar takim. FrontOps AI tregon oraret e disponueshme, konfirmon rezervimin, dërgon kujtesë ditën e mëparshme dhe menaxhon ri-planifikimet."
+      },
+      {
+        "title": "Biznese Shërbimesh",
+        "description": "Përgjigjuni kërkesave për oferta, kualifikoni klientë, planifikoni konsultime dhe ndiqni prospektet automatikisht.",
+        "scenario": "Një klient potencial pyet për shërbim dhe çmime. FrontOps AI mbledh detajet e projektit, ofron një gamë çmimesh dhe planifikon një konsultim me ekipin."
+      }
+    ]
+  },
+  "showcase": {
+    "badge": "Shiko Produktin",
+    "title": "Një Qendër Komandimi Operacionale për Komunikimin me Klientë",
+    "subtitle": "Një shikim në platformën FrontOps AI — ku çdo ndërveprim me klientë kapet, organizohet dhe bëhet veprim.",
+    "screens": {
+      "inbox": "Inbox i Unifikuar",
+      "leads": "Pipeline i Klientëve",
+      "voice": "Inteligjenca Zanore",
+      "analytics": "Paneli Analitik",
+      "playbook": "Playbook-et AI"
+    }
+  },
+  "voiceAi": {
+    "badge": "E Ardhmja",
+    "title": "Nga Mesazhet te Zëri. Kufiri i Ardhshëm.",
+    "subtitle": "FrontOps AI po evoluon nga automatizimi i mesazheve drejt operacioneve zanore me klientë dhe recepsionit AI — duke menaxhuar thirrje, takime dhe pyetje me zë.",
+    "features": [
+      "Recepsion thirrjesh me AI",
+      "Transkriptim & përgjigje mesazhesh zanore",
+      "Rezervim takimesh me telefon",
+      "Mbështetje zanore shumëgjuhëshe",
+      "Drejtim inteligjent i thirrjeve"
+    ],
+    "cta": "Vjen në 2026"
+  },
+  "integrations": {
+    "badge": "Integrimet",
+    "title": "Lidhet me Kanalet që Klientët Tuaj Përdorin",
+    "subtitle": "Një platformë. Çdo kanal. Asnjë mesazh i humbur.",
+    "channels": [
+      { "name": "WhatsApp", "status": "Aktiv" },
+      { "name": "Instagram", "status": "Aktiv" },
+      { "name": "Messenger", "status": "Aktiv" },
+      { "name": "Website Chat", "status": "Aktiv" },
+      { "name": "Email", "status": "Së Shpejti" },
+      { "name": "Zëri / Thirrjet", "status": "Së Shpejti" }
+    ]
+  },
+  "socialProof": {
+    "badge": "Qasje e Hershme",
+    "title": "Ndërtuar për Adoptuesit e Hershëm që Lëvizin Shpejt",
+    "items": [
+      "Bizneset pilot hapen së shpejti",
+      "Dizajnuar për NVM-të Shqiptare, ndërtuar për t'u zgjeruar ndërkombëtarisht",
+      "Kërkojmë partnerë pilot në modë, mikpritje, klinika dhe shërbime",
+      "Adoptuesit e hershëm marrin onboarding prioritar dhe input direkt në produkt"
+    ]
+  },
+  "investor": {
+    "badge": "Vizioni & Shkalla",
+    "title": "Një Platformë AI-Native për të Ardhmen e Operacioneve me Klientë",
+    "subtitle": "FrontOps AI nuk është një veçori — është një platformë. Ndërtuar për t'u zgjeruar nëpër sektorë, gjuhë dhe tregje.",
+    "points": [
+      {
+        "title": "Platformë Multi-Sektoriale",
+        "description": "Një platformë horizontale AI që shërben çdo biznes që punon me klientë — nga retail-i te shëndetësia te mikpritja."
+      },
+      {
+        "title": "Arkitekturë AI-Native",
+        "description": "Ndërtuar nga themelet me AI moderne në bërthamë. Jo një chatbot me inteligjencë të shtuar më vonë."
+      },
+      {
+        "title": "Rajonale Fillimisht, Globale më Pas",
+        "description": "Duke u nisur në tregun shqiptar me aftësi dygjuhëshe. E njëjta platformë zgjerohet në çdo gjuhë dhe rajon."
+      },
+      {
+        "title": "Konvergjenca Zë + Mesazhe",
+        "description": "Pozicionuar në kryqëzimin e automatizimit të mesazheve dhe AI-së zanore — një treg i gatshëm për rritje masive."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Gati të Ndaloni Humbjen e Klientëve?",
+    "subtitle": "Bashkohuni bizneseve që nuk do të humbasin kurrë më një klient nga një përgjigje e vonuar. Merrni qasje të hershme në FrontOps AI sot.",
+    "cta1": "Kërko Qasje të Hershme",
+    "cta2": "Bashkohu Programit Pilot",
+    "cta3": "Rezervo një Demo"
+  },
+  "footer": {
+    "description": "Platformë e operacioneve me klientë e mundësuar nga AI. Punonjësi juaj inteligjent për rrjedhat e recepsionit, menaxhimin e klientëve dhe komunikimin.",
+    "product": "Produkti",
+    "company": "Kompania",
+    "legal": "Ligjore",
+    "links": {
+      "platform": "Platforma",
+      "features": "Veçoritë",
+      "integrations": "Integrimet",
+      "pricing": "Çmimet",
+      "about": "Rreth Nesh",
+      "contact": "Kontakti",
+      "pilot": "Programi Pilot",
+      "careers": "Karriera",
+      "privacy": "Politika e Privatësisë",
+      "terms": "Kushtet e Shërbimit"
+    },
+    "copyright": "© 2025 FrontOps AI. Të gjitha të drejtat e rezervuara.",
+    "madeIn": "Ndërtuar në Kosovë 🇽🇰"
+  },
+  "product": {
+    "hero": {
+      "badge": "Platforma",
+      "title": "Një Punonjës AI. Çdo Kanal Klientësh.",
+      "subtitle": "FrontOps AI është një platformë e plotë e operacioneve me klientë që zëvendëson nevojën për staf të dedikuar recepsioni — duke menaxhuar komunikimin, kualifikimin, ndjekjen dhe organizimin nëpër çdo kanal."
+    },
+    "capabilities": {
+      "title": "Çfarë Mund të Bëjë FrontOps AI",
+      "items": [
+        { "title": "Përgjigjet Pyetjeve të Klientëve", "description": "Përgjigjet menjëherë pyetjeve me përgjigje të sakta bazuar në të dhënat e biznesit tuaj." },
+        { "title": "Përgjigjet me Stilin Tuaj", "description": "AI mëson tonin, zërin e markës dhe stilin tuaj të komunikimit — çdo përgjigje ndihet autentike." },
+        { "title": "Kualifikon Klientë", "description": "Automatikisht vlerëson dhe kategorizon klientët bazuar në interes, buxhet, afat kohor dhe kritere të personalizuara." },
+        { "title": "Rekomandon Produkte", "description": "Sugjeron produkte ose shërbime relevante bazuar në nevojat, preferencat dhe historikun e klientit." },
+        { "title": "Ndjek Automatikisht", "description": "Dërgon ndjekje të personalizuara në kohën e duhur — pa nevojë për gjurmim manual." },
+        { "title": "Menaxhon Rezervime", "description": "Menaxhon takime, rezervime dhe planifikime direkt brenda bisedave." },
+        { "title": "Organizon DM-të", "description": "Etiketoni, kategorizoni dhe prioritizoni mesazhet hyrëse nëpër të gjitha kanalet automatikisht." },
+        { "title": "Përmblidh Bisedat", "description": "Merrni përmbledhje të menjëhershme të bisedave të gjata — detaje kyçe, veprime dhe hapat e ardhshëm." },
+        { "title": "Drejton te Njerëzit", "description": "Kalon pa ndërprerje rastet komplekse te anëtari i duhur i ekipit me kontekst të plotë." },
+        { "title": "Proceson Mesazhe Zanore", "description": "Transkriptoni dhe kuptoni mesazhet zanore, pastaj përgjigjuni ose veproni sipas tyre." }
+      ]
+    }
+  },
+  "solutions": {
+    "hero": {
+      "badge": "Zgjidhjet",
+      "title": "Operacione AI të Përshtatura për Industrinë Tuaj",
+      "subtitle": "FrontOps AI përshtatet me rrjedhat unike të biznesit tuaj — qoftë duke menaxhuar një butik, hotel, klinikë ose firmë shërbimesh."
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "Rreth Nesh",
+      "title": "Duke Ndërtuar të Ardhmen e Operacioneve me Klientë",
+      "subtitle": "FrontOps AI lindi nga një vëzhgim i thjeshtë: bizneset që punojnë me klientë shpenzojnë shumë kohë në komunikim përsëritës dhe humbasin klientë për shkak të kësaj."
+    },
+    "mission": {
+      "title": "Misioni Ynë",
+      "description": "T'i japim çdo biznesi që punon me klientë një punonjës AI që nuk fle kurrë, nuk harron kurrë dhe nuk humbet kurrë një klient. Po ndërtojmë shtresën operacionale ndërmjet bizneseve dhe klientëve të tyre."
+    },
+    "vision": {
+      "title": "Vizioni Ynë",
+      "description": "Një botë ku asnjë biznes nuk humbet një klient për shkak të komunikimit të ngadaltë. Ku çdo pyetje trajtohet me kujdes, shpejtësi dhe inteligjencë — pavarësisht madhësisë së biznesit ose ekipit."
+    },
+    "values": [
+      { "title": "Ekselencë Operacionale", "description": "Ndërtojmë sisteme që funksionojnë me besueshmëri, çdo herë, për çdo ndërveprim me klientë." },
+      { "title": "AI e Përqendruar te Njeriu", "description": "AI-ja jonë përmirëson ekipet njerëzore — nuk i zëvendëson. Menaxhon të përsëritshmet që ekipi juaj të fokusohet në atë që ka rëndësi." },
+      { "title": "Inovacion Praktik", "description": "Nuk ndjekim modën. Zgjidhim probleme reale operacionale për biznese reale." },
+      { "title": "Impakt Rajonal", "description": "Duke nisur nga Kosova dhe Shqipëria, po dëshmojmë që produkte AI të klasit botëror mund të ndërtohen kudo." }
+    ]
+  },
+  "pilotPage": {
+    "hero": {
+      "badge": "Programi Pilot",
+      "title": "Bëhuni Ndër të Parët që Aktivizoni një Punonjës AI",
+      "subtitle": "Po zgjedhim një grup të vogël biznesesh vizionare për të pilotuar FrontOps AI. Merrni qasje të hershme, mbështetje prioritare dhe ndikim direkt në produkt."
+    },
+    "benefits": [
+      { "title": "Qasje e Hershme", "description": "Bëhuni ndër bizneset e para që përdorin FrontOps AI para lançimit publik." },
+      { "title": "Mbështetje Prioritare", "description": "Linjë direkte me ekipin tonë për onboarding, personalizim dhe optimizim." },
+      { "title": "Input në Produkt", "description": "Feedback-u juaj formon produktin. Partnerët pilot ndihmojnë në përcaktimin e veçorive dhe rrjedhave." },
+      { "title": "Çmime Partneri Themelues", "description": "Siguroni çmime speciale si partner themelues — ndjeshëm më poshtë çmimeve të ardhshme publike." }
+    ],
+    "ideal": {
+      "title": "Partnerët Ideal Pilot",
+      "description": "Kërkojmë biznese që punojnë me klientë, që menaxhojnë volum të konsiderueshëm mesazhesh dhe duan të modernizojnë operacionet e tyre me klientë.",
+      "criteria": [
+        "Merrni 20+ pyetje klientësh në ditë përmes WhatsApp ose Instagram",
+        "Operoni në modë, mikpritje, klinika ose shërbime profesionale",
+        "Keni ekip prej 2-50 personash",
+        "Bazuar në Kosovë, Shqipëri ose rajonin më të gjerë",
+        "Hapur ndaj dhënies së feedback-ut dhe iterimit së bashku"
+      ]
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "badge": "Na Kontaktoni",
+      "title": "Le të Flasim për Operacionet Tuaja me Klientë",
+      "subtitle": "Qoftë të mësoni më shumë, të bashkoheni programit pilot ose të eksploroni një partneritet — do të dëshironim të dëgjonim nga ju."
+    },
+    "form": {
+      "name": "Emri i Plotë",
+      "email": "Adresa Email",
+      "company": "Emri i Kompanisë",
+      "phone": "Numri i Telefonit",
+      "interest": "Jam i interesuar për...",
+      "interestOptions": ["Qasje të Hershme", "Programin Pilot", "Rezervo Demo", "Partneritet", "Investim"],
+      "message": "Mesazhi Juaj",
+      "submit": "Dërgo Mesazhin",
+      "success": "Faleminderit! Do t'ju kontaktojmë brenda 24 orëve."
+    },
+    "info": {
+      "email": "hello@frontops-ai.com",
+      "location": "Prishtinë, Kosovë"
+    }
+  }
+}
