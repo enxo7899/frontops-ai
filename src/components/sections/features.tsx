@@ -30,8 +30,25 @@ interface FeaturesProps {
 
 export function FeaturesSection({ dict }: FeaturesProps) {
   return (
-    <Section dark className="bg-noise">
-      <Container>
+    <Section dark className="relative bg-dark overflow-hidden">
+      {/* Animated background */}
+      <div className="absolute inset-0">
+        {/* Grid pattern */}
+        <div className="absolute inset-0 bg-grid-dark opacity-30" />
+        
+        {/* Dot grid pattern */}
+        <div className="absolute inset-0 bg-dot-grid opacity-40" />
+        
+        {/* Animated gradient orbs */}
+        <div className="absolute top-1/4 left-1/3 h-[500px] w-[500px] rounded-full bg-primary/10 blur-[120px] animate-pulse-glow" />
+        <div className="absolute bottom-1/4 right-1/3 h-[400px] w-[400px] rounded-full bg-violet-500/10 blur-[120px] animate-pulse-glow" style={{ animationDelay: "1s" }} />
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 h-[600px] w-[600px] rounded-full bg-accent/5 blur-[150px]" />
+        
+        {/* Noise texture overlay */}
+        <div className="absolute inset-0 bg-noise opacity-50" />
+      </div>
+
+      <Container className="relative z-10">
         <SectionHeader badge={dict.badge} title={dict.title} subtitle={dict.subtitle} dark />
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {dict.items.map((feature, i) => {
@@ -46,7 +63,7 @@ export function FeaturesSection({ dict }: FeaturesProps) {
                 transition={{ duration: 0.5, delay: i * 0.06 }}
                 className={isLarge ? "sm:col-span-2 lg:col-span-2" : ""}
               >
-                <SpotlightCard dark className="h-full">
+                <SpotlightCard dark className="h-full backdrop-blur-sm bg-dark-card/80 border-dark-border/50">
                   <div className="p-6">
                     <div className={`mb-4 flex h-12 w-12 items-center justify-center rounded-xl bg-gradient-to-br ${accents[i]} text-white shadow-lg`}>
                       <Icon className="h-6 w-6" />

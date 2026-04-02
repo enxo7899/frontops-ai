@@ -31,6 +31,10 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "FrontOps AI" }],
   creator: "FrontOps AI",
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+  },
   openGraph: {
     type: "website",
     locale: "en_US",
