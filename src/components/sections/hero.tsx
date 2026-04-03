@@ -24,7 +24,10 @@ interface HeroProps {
       responseLabel: string;
       leads: string;
       leadsLabel: string;
+      conversion?: string;
+      conversionLabel?: string;
     };
+    valueProps?: string[];
   };
 }
 
@@ -216,12 +219,13 @@ export function HeroSection({ lang, dict }: HeroProps) {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.8 }}
-          className="mx-auto mt-16 grid max-w-3xl grid-cols-3 gap-8"
+          className="mx-auto mt-16 grid max-w-4xl grid-cols-2 md:grid-cols-4 gap-6 md:gap-8"
         >
           {[
             { value: dict.stats.channels, label: dict.stats.channelsLabel, icon: Globe },
             { value: dict.stats.response, label: dict.stats.responseLabel, icon: Zap },
             { value: dict.stats.leads, label: dict.stats.leadsLabel, icon: Sparkles },
+            ...(dict.stats.conversion ? [{ value: dict.stats.conversion, label: dict.stats.conversionLabel || '', icon: ArrowRight }] : []),
           ].map((stat, i) => (
             <div key={i} className="text-center">
               <div className="mx-auto mb-2 flex h-10 w-10 items-center justify-center rounded-xl bg-white/5 border border-white/10">
@@ -232,6 +236,26 @@ export function HeroSection({ lang, dict }: HeroProps) {
             </div>
           ))}
         </motion.div>
+
+        {dict.valueProps && dict.valueProps.length > 0 && (
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.9 }}
+            className="mx-auto mt-12 max-w-3xl"
+          >
+            <div className="grid gap-4 md:grid-cols-3">
+              {dict.valueProps.map((prop, i) => (
+                <div key={i} className="flex items-start gap-3 rounded-xl bg-white/5 border border-white/10 p-4 backdrop-blur-sm">
+                  <div className="flex h-6 w-6 shrink-0 items-center justify-center rounded-lg bg-accent/20">
+                    <Sparkles className="h-3.5 w-3.5 text-accent" />
+                  </div>
+                  <p className="text-sm text-dark-muted leading-relaxed">{prop}</p>
+                </div>
+              ))}
+            </div>
+          </motion.div>
+        )}
       </div>
     </section>
   );

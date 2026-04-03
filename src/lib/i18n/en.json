@@ -20,11 +20,18 @@
     "stats": {
       "channels": "5+",
       "channelsLabel": "Channels Connected",
-      "response": "24/7",
-      "responseLabel": "Always Responding",
+      "response": "<3s",
+      "responseLabel": "Average Response Time",
       "leads": "0",
-      "leadsLabel": "Missed Leads"
-    }
+      "leadsLabel": "Missed Leads",
+      "conversion": "3x",
+      "conversionLabel": "Higher Conversion Rate"
+    },
+    "valueProps": [
+      "Save 15+ hours per week on customer communication",
+      "Never miss a lead, even at 3 AM",
+      "Costs 80% less than hiring a full-time employee"
+    ]
   },
   "problem": {
     "badge": "Sound Familiar?",
@@ -182,36 +189,36 @@
     "subtitle": "Think of everything a great receptionist, sales assistant, and customer service agent does — FrontOps AI does all of that, across every channel, simultaneously.",
     "items": [
       {
-        "title": "Answers on WhatsApp & Instagram",
-        "description": "Customers DM you on Instagram or WhatsApp? FrontOps AI replies instantly with accurate information about your products and services — no delays."
+        "title": "Instant Multi-Channel Responses",
+        "description": "Customers DM you on Instagram or WhatsApp? FrontOps AI replies in under 3 seconds with accurate, personalized information about your products and services. Works across WhatsApp Business, Instagram DMs, Facebook Messenger, and your website chat simultaneously."
       },
       {
-        "title": "Finds Your Best Leads",
-        "description": "Not every message is a sale. FrontOps AI identifies which customers are ready to buy and prioritizes them — so you focus on the money."
+        "title": "Intelligent Lead Qualification",
+        "description": "Not every message is a sale. FrontOps AI uses advanced AI to score leads based on intent, budget signals, and urgency — automatically prioritizing hot prospects so you focus on closing deals, not sorting messages."
       },
       {
-        "title": "Follows Up Automatically",
-        "description": "That customer who was interested but didn't reply? FrontOps AI sends a polite, natural follow-up at the right time. No more lost opportunities."
+        "title": "Smart Follow-Up System",
+        "description": "That customer who was interested but didn't reply? FrontOps AI automatically sends personalized, context-aware follow-ups at optimal times. Studies show 60% of sales happen after the 5th follow-up — we handle all of them."
       },
       {
-        "title": "Remembers Every Customer",
-        "description": "Returning customer? The AI knows their name, what they bought before, and what they like. Every interaction feels personal and professional."
+        "title": "Complete Customer Memory",
+        "description": "Returning customer? The AI instantly recalls their name, purchase history, preferences, past conversations, and even their preferred communication style. Every interaction feels personal and builds long-term relationships."
       },
       {
-        "title": "Hands Off to Your Team",
-        "description": "When something needs a human — a complex question, a VIP client, a complaint — FrontOps AI transfers the conversation to the right person with all context."
+        "title": "Seamless Human Handoff",
+        "description": "When something needs a human touch — complex negotiations, VIP clients, sensitive complaints — FrontOps AI intelligently transfers to the right team member with full conversation context, customer history, and suggested next actions."
       },
       {
-        "title": "One Inbox for Everything",
-        "description": "WhatsApp, Instagram, Messenger, website chat — all in one dashboard. No more switching between apps. No more losing messages."
+        "title": "Unified Omnichannel Inbox",
+        "description": "WhatsApp, Instagram, Messenger, website chat, and email — all conversations in one powerful dashboard. Smart categorization, priority sorting, and search. Never lose a message or miss context again."
       },
       {
-        "title": "Understands Voice Notes",
-        "description": "Customer sends a voice message? FrontOps AI listens, understands it, and responds appropriately. No more replaying voice notes 5 times."
+        "title": "Voice Message Intelligence",
+        "description": "Customer sends a voice message? FrontOps AI transcribes, analyzes sentiment and intent, extracts key information, and responds appropriately — in text or voice. Supports 50+ languages and regional dialects."
       },
       {
-        "title": "AI Phone Receptionist",
-        "description": "Coming soon: an AI that picks up your business calls, books appointments, answers questions, and routes calls — like a real receptionist."
+        "title": "AI Phone Receptionist (Coming Soon)",
+        "description": "Next-gen voice AI that answers business calls with natural conversation, books appointments in your calendar, answers FAQs, qualifies callers, and routes to your team — all while sounding professional and human."
       }
     ]
   },
@@ -285,10 +292,50 @@
     "title": "Be Part of Something New",
     "items": [
       "Pilot program launching soon — limited spots available",
-      "Built for businesses in Kosovo, Albania, and the region — scaling internationally",
+      "Built for businesses in Albania and the region — scaling internationally",
       "Early partners get direct input on features and priority onboarding",
       "Join 50+ businesses already on the waitlist"
     ]
+  },
+  "pricing": {
+    "badge": "Simple Pricing",
+    "title": "One Platform. One Price. Unlimited Potential.",
+    "subtitle": "No hidden fees. No per-message charges. Just one AI employee working 24/7 for your business.",
+    "comparison": {
+      "traditional": {
+        "title": "Traditional Employee",
+        "cost": "€500-800/mo",
+        "items": [
+          "Works 8 hours/day, 5 days/week",
+          "Needs training and supervision",
+          "Takes sick days and vacations",
+          "Limited to one channel at a time",
+          "Inconsistent quality",
+          "Additional costs: benefits, equipment, space"
+        ]
+      },
+      "frontops": {
+        "title": "FrontOps AI Employee",
+        "cost": "Starting at €99/mo",
+        "items": [
+          "Works 24/7/365 — never sleeps",
+          "Learns your business instantly",
+          "Always available, never sick",
+          "Handles all channels simultaneously",
+          "Consistent, professional quality",
+          "No additional costs — all-inclusive"
+        ]
+      }
+    },
+    "roi": {
+      "title": "Return on Investment",
+      "items": [
+        "Average customer saves 15+ hours/week = €600+ in time value",
+        "Typical conversion rate increase: 2-3x = €1,200+ additional monthly revenue",
+        "Zero missed leads = €800+ in recovered opportunities",
+        "Total monthly value: €2,600+ for €99 investment"
+      ]
+    }
   },
   "investor": {
     "badge": "The Bigger Picture",
@@ -305,7 +352,7 @@
       },
       {
         "title": "Starting Local, Built to Scale Globally",
-        "description": "We're launching in Kosovo and Albania because we know this market. But the technology works in any language, any country, any industry."
+        "description": "We're launching in Albania and the region because we know this market. But the technology works in any language, any country, any industry."
       },
       {
         "title": "The Future: Voice + Messaging + Operations",
@@ -338,7 +385,7 @@
       "terms": "Terms of Service"
     },
     "copyright": "© 2025 FrontOps AI. All rights reserved.",
-    "madeIn": "Built in Kosovo 🇽🇰"
+    "madeIn": "Made in Albania ��"
   },
   "product": {
     "hero": {
@@ -409,7 +456,7 @@
         "Receive 20+ customer inquiries daily via WhatsApp or Instagram",
         "Operate in fashion, hospitality, clinics, or professional services",
         "Have a team of 2-50 people",
-        "Based in Kosovo, Albania, or the broader region",
+        "Based in Albania or the broader region",
         "Open to providing feedback and iterating together"
       ]
     }
