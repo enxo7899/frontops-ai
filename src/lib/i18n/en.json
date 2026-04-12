@@ -13,7 +13,7 @@
     "badge": "The AI Employee Your Business Needs",
     "title": "Stop Losing Customers to",
     "titleWords": ["Slow Replies", "Missed DMs", "Unanswered Calls", "Lost Leads", "Messy Inboxes"],
-    "subtitle": "Imagine having a dedicated employee who works 24/7 on your WhatsApp, Instagram, and Messenger — answering every customer, following up on every lead, and closing more sales while you sleep. That's FrontOps AI.",
+    "subtitle": "FrontOps AI is an AI-powered customer operations platform built for businesses in Albania and the region. It connects to your WhatsApp, Instagram, Messenger, and website — answering customers instantly, qualifying leads, organizing every request, and closing more sales while you sleep. It's not a chatbot. It's a trained digital employee that works silently alongside your team, 24/7.",
     "cta1": "Request Early Access",
     "cta2": "Join Pilot Program",
     "cta3": "Book a Demo",
@@ -29,22 +29,22 @@
     },
     "valueProps": [
       "Save 15+ hours per week on customer communication",
-      "Never miss a lead, even at 3 AM",
-      "Costs 80% less than hiring a full-time employee"
+      "Never miss a lead — even at 3 AM on a Sunday",
+      "Built specifically for Albanian and regional businesses"
     ]
   },
   "problem": {
     "badge": "Sound Familiar?",
     "title": "This Is Costing You Money Every Single Day",
-    "subtitle": "If you run a business that talks to customers — through WhatsApp, Instagram, or any messaging app — you're probably dealing with these problems right now.",
+    "subtitle": "In Albania, most businesses still manage customer messages manually — one owner juggling WhatsApp, Instagram, Messenger, and phone calls with no unified system and no backup. If this sounds like you, here's what it's actually costing you.",
     "problems": [
       {
         "title": "You're Losing Sales While You Sleep",
-        "description": "A customer messages you at 10 PM asking about a product. You see it at 8 AM. By then, they already bought from someone who replied faster. This happens every single day."
+        "description": "A customer messages you at 10 PM on WhatsApp asking about a product. You see it at 8 AM. By then, they've already bought from a competitor who replied within minutes. In Albania's fast-moving market, this happens to businesses every single day — and most don't even realize how much revenue they're losing."
       },
       {
         "title": "Your DMs Are a Disaster",
-        "description": "Messages from Instagram, WhatsApp, and Messenger are scattered everywhere. You forget who asked what. Important requests get buried. There's no system — just chaos."
+        "description": "Messages from Instagram, WhatsApp, Messenger, and email are scattered everywhere. You forget who asked what. Important requests get buried under new ones. There's no unified system — just you, your phone, and chaos. This is how most Albanian businesses operate today, and it's costing them customers daily."
       },
       {
         "title": "You Can't Be Available 24/7",
@@ -56,7 +56,7 @@
       },
       {
         "title": "You Can't Afford to Hire Yet",
-        "description": "You need someone to handle customer messages full-time, but a dedicated receptionist or sales assistant costs €500-800/month. That's a big expense for a growing business."
+        "description": "You need someone to handle customer messages full-time, but a dedicated receptionist or sales assistant costs €500-800/month. That's a huge expense for a growing Albanian business — especially when you're already doing the work of three people."
       },
       {
         "title": "Interested Customers Disappear",
@@ -291,10 +291,10 @@
     "badge": "Join Early",
     "title": "Be Part of Something New",
     "items": [
-      "Pilot program launching soon — limited spots available",
-      "Built for businesses in Albania and the region — scaling internationally",
-      "Early partners get direct input on features and priority onboarding",
-      "Join 50+ businesses already on the waitlist"
+      "Founding Pilot Program launching soon — only 20 spots for early partners",
+      "Purpose-built for Albanian and regional businesses — designed to scale globally",
+      "Pilot partners receive founding pricing, direct product input, and white-glove onboarding",
+      "100+ businesses across Albania have already expressed interest"
     ]
   },
   "pricing": {
@@ -340,7 +340,7 @@
   "investor": {
     "badge": "The Bigger Picture",
     "title": "Why This Matters — For Business Owners and Beyond",
-    "subtitle": "FrontOps AI isn't just another tech tool. It's a new category of AI — purpose-built agents that work inside businesses, not general-purpose chatbots you go to for answers.",
+    "subtitle": "FrontOps AI isn't just another tech tool. It's a new category of AI — purpose-built agents that work inside businesses, not general-purpose chatbots you go to for answers. We're building the infrastructure layer for customer-facing operations, starting where it's needed most.",
     "points": [
       {
         "title": "AI Agents, Not AI Assistants",
@@ -352,23 +352,23 @@
       },
       {
         "title": "Starting Local, Built to Scale Globally",
-        "description": "We're launching in Albania and the region because we know this market. But the technology works in any language, any country, any industry."
+        "description": "We're launching in Albania because we understand the unique challenges of this market — fragmented communication, manual processes, and businesses run by small teams doing everything themselves. But the technology works in any language, any country, any industry. Local expertise, global architecture."
       },
       {
         "title": "The Future: Voice + Messaging + Operations",
-        "description": "Today it's WhatsApp and Instagram. Tomorrow it's phone calls, voice assistants, and full operational automation. We're building the operating system for customer-facing work."
+        "description": "Phase 1 is WhatsApp and Instagram automation with an intelligent AI agent. Phase 2 adds voice AI and phone reception. Phase 3 is full operational automation — scheduling, invoicing, CRM integration. We're building the operating system for customer-facing work, one layer at a time."
       }
     ]
   },
   "cta": {
-    "title": "Every Minute Without FrontOps AI Is a Missed Sale",
-    "subtitle": "Your competitors are getting faster. Your customers expect instant replies. Don't let another lead slip away because no one was there to answer.",
+    "title": "Every Unanswered Message Is Revenue Walking Out the Door",
+    "subtitle": "While you're busy running your business, customers are messaging you — and waiting. Your competitors reply faster. With FrontOps AI, you never miss another opportunity. Join the founding pilot program today.",
     "cta1": "Request Early Access",
     "cta2": "Join Pilot Program",
     "cta3": "Book a Demo"
   },
   "footer": {
-    "description": "AI-powered customer operations platform. Your intelligent employee for front-desk workflows, lead management, and customer communication.",
+    "description": "AI-powered customer operations platform built in Albania. Your intelligent digital employee for front-desk workflows, lead management, and omnichannel customer communication.",
     "product": "Product",
     "company": "Company",
     "legal": "Legal",
@@ -424,17 +424,17 @@
     },
     "mission": {
       "title": "Our Mission",
-      "description": "To give every customer-facing business an AI employee that never sleeps, never forgets, and never misses a lead. We're building the operational layer between businesses and their customers."
+      "description": "To give every customer-facing business — starting in Albania — an AI employee that never sleeps, never forgets, and never misses a lead. We're building the operational layer between businesses and their customers, so no owner ever has to choose between running their business and answering messages."
     },
     "vision": {
       "title": "Our Vision",
-      "description": "A world where no business loses a customer due to slow communication. Where every inquiry is handled with care, speed, and intelligence — regardless of the business's size or team."
+      "description": "A world where no business loses a customer due to slow communication. Where every inquiry — whether it comes at 3 AM on WhatsApp or during a holiday on Instagram — is handled with care, speed, and intelligence, regardless of the business's size or team."
     },
     "values": [
       { "title": "Operational Excellence", "description": "We build systems that work reliably, every time, for every customer interaction." },
       { "title": "Human-Centered AI", "description": "Our AI enhances human teams — it doesn't replace them. It handles the repetitive so your team can focus on what matters." },
       { "title": "Practical Innovation", "description": "We don't chase hype. We solve real operational problems for real businesses." },
-      { "title": "Regional Impact", "description": "Starting in Kosovo and Albania, we're proving that world-class AI products can be built anywhere." }
+      { "title": "Regional Impact", "description": "Starting in Albania, we're proving that world-class AI products can be built anywhere." }
     ]
   },
   "pilotPage": {
@@ -479,8 +479,8 @@
       "success": "Thank you! We'll be in touch within 24 hours."
     },
     "info": {
-      "email": "hello@frontops-ai.com",
-      "location": "Prishtina, Kosovo"
+      "email": "info@frontops-ai.com",
+      "location": "Tirana, Albania"
     }
   }
 }

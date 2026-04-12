@@ -13,7 +13,7 @@
     "badge": "Punonjësi AI që Biznesi Juaj Ka Nevojë",
     "title": "Mos Humbni Më Klientë nga",
     "titleWords": ["Përgjigje të Ngadalta", "DM të Papërgjigjura", "Thirrje pa Përgjigje", "Klientë të Humbur", "Inbox Kaotik"],
-    "subtitle": "Imagjinoni një punonjës të dedikuar që punon 24/7 në WhatsApp, Instagram dhe Messenger — duke iu përgjigjur çdo klienti, duke ndjekur çdo mundësi shitjeje, dhe duke mbyllur më shumë shitje ndërsa ju flini. Ky është FrontOps AI.",
+    "subtitle": "FrontOps AI është një platformë e operacioneve me klientë e mundësuar nga AI, e ndërtuar posaçërisht për bizneset shqiptare. Lidhet me WhatsApp, Instagram, Messenger dhe faqen tuaj — u përgjigjet klientëve menjëherë, kualifikon klientë potencialë, organizon çdo kërkesë dhe mbyll më shumë shitje ndërsa ju flini. Nuk është chatbot. Është punonjës dixhital i trajnuar që punon heshtazi pranë ekipit tuaj, 24/7.",
     "cta1": "Kërko Qasje të Hershme",
     "cta2": "Bashkohu Programit Pilot",
     "cta3": "Rezervo një Demo",
@@ -23,13 +23,20 @@
       "response": "24/7",
       "responseLabel": "Gjithmonë Duke Përgjigjur",
       "leads": "0",
-      "leadsLabel": "Klientë të Humbur"
-    }
+      "leadsLabel": "Klientë të Humbur",
+      "conversion": "3x",
+      "conversionLabel": "Konvertim Më i Lartë"
+    },
+    "valueProps": [
+      "Kurseni 15+ orë në javë në komunikimin me klientë",
+      "Mos humbni asnjë klient — edhe në 3 të natës së dielës",
+      "Ndërtuar posaçërisht për bizneset shqiptare dhe rajonale"
+    ]
   },
   "problem": {
     "badge": "Problemi",
     "title": "Biznesi Juaj Humbet Klientë Ndërsa Ju Flini",
-    "subtitle": "Çdo mesazh pa përgjigje është një mundësi e humbur. Shumica e bizneseve që punojnë me klientë vuajnë nga të njëjtat boshllëqe operacionale.",
+    "subtitle": "Në Shqipëri, shumica e bizneseve ende i menaxhojnë mesazhet e klientëve manualisht — një pronar i vetëm që merret me WhatsApp, Instagram, Messenger dhe telefon pa asnjë sistem të unifikuar dhe pa asnjë mbështetje. Nëse kjo ju tingëllon e njohur, ja çfarë po ju kushton realisht.",
     "problems": [
       {
         "title": "Klientë të Humbur",
@@ -284,16 +291,16 @@
     "badge": "Qasje e Hershme",
     "title": "Ndërtuar për Adoptuesit e Hershëm që Lëvizin Shpejt",
     "items": [
-      "Bizneset pilot hapen së shpejti",
-      "Dizajnuar për NVM-të Shqiptare, ndërtuar për t'u zgjeruar ndërkombëtarisht",
-      "Kërkojmë partnerë pilot në modë, mikpritje, klinika dhe shërbime",
-      "Adoptuesit e hershëm marrin onboarding prioritar dhe input direkt në produkt"
+      "Programi Pilot Themelues hapet së shpejti — vetëm 20 vende të disponueshme për partnerët e parë",
+      "Ndërtuar posaçërisht për bizneset shqiptare — dizajnuar për t'u zgjeruar globalisht",
+      "Partnerët pilot marrin çmime themeluesi, input direkt në produkt dhe onboarding të dedikuar",
+      "100+ biznese në Shqipëri kanë shprehur interes tashmë"
     ]
   },
   "investor": {
     "badge": "Vizioni & Shkalla",
     "title": "Një Platformë AI-Native për të Ardhmen e Operacioneve me Klientë",
-    "subtitle": "FrontOps AI nuk është një veçori — është një platformë. Ndërtuar për t'u zgjeruar nëpër sektorë, gjuhë dhe tregje.",
+    "subtitle": "FrontOps AI nuk është një veçori — është një platformë. Ndërtuar për t'u zgjeruar nëpër sektorë, gjuhë dhe tregje. Po ndërtojmë shtresën e infrastrukturës për operacionet me klientë, duke nisur aty ku nevojitet më shumë.",
     "points": [
       {
         "title": "Platformë Multi-Sektoriale",
@@ -305,23 +312,23 @@
       },
       {
         "title": "Rajonale Fillimisht, Globale më Pas",
-        "description": "Duke u nisur në tregun shqiptar me aftësi dygjuhëshe. E njëjta platformë zgjerohet në çdo gjuhë dhe rajon."
+        "description": "Duke u nisur në Shqipëri sepse i kuptojmë sfidat unike të këtij tregu — komunikim i fragmentuar, procese manuale dhe biznese ku një person bën gjithçka vetë. Por teknologjia funksionon në çdo gjuhë, çdo vend, çdo industri. Ekspertizë lokale, arkitekturë globale."
       },
       {
         "title": "Konvergjenca Zë + Mesazhe",
-        "description": "Pozicionuar në kryqëzimin e automatizimit të mesazheve dhe AI-së zanore — një treg i gatshëm për rritje masive."
+        "description": "Faza 1 është automatizimi i WhatsApp dhe Instagram me një agjent inteligjent AI. Faza 2 shton AI zanore dhe recepsion telefonik. Faza 3 është automatizim i plotë operacional — planifikim, faturim, integrim CRM. Po ndërtojmë sistemin operativ për punën me klientë, shtresë pas shtrese."
       }
     ]
   },
   "cta": {
-    "title": "Gati të Ndaloni Humbjen e Klientëve?",
-    "subtitle": "Bashkohuni bizneseve që nuk do të humbasin kurrë më një klient nga një përgjigje e vonuar. Merrni qasje të hershme në FrontOps AI sot.",
+    "title": "Çdo Mesazh pa Përgjigje Është të Ardhura që Ikin",
+    "subtitle": "Ndërsa ju jeni të zënë me biznesin, klientët po ju dërgojnë mesazhe — dhe presin. Konkurrentët tuaj përgjigjen më shpejt. Me FrontOps AI, nuk humbni kurrë më një mundësi. Bashkohuni programit pilot themelues sot.",
     "cta1": "Kërko Qasje të Hershme",
     "cta2": "Bashkohu Programit Pilot",
     "cta3": "Rezervo një Demo"
   },
   "footer": {
-    "description": "Platformë e operacioneve me klientë e mundësuar nga AI. Punonjësi juaj inteligjent për rrjedhat e recepsionit, menaxhimin e klientëve dhe komunikimin.",
+    "description": "Platformë e operacioneve me klientë e mundësuar nga AI, e ndërtuar në Shqipëri. Punonjësi juaj dixhital inteligjent për rrjedhat e recepsionit, menaxhimin e klientëve dhe komunikimin omnichannel.",
     "product": "Produkti",
     "company": "Kompania",
     "legal": "Ligjore",
@@ -377,17 +384,17 @@
     },
     "mission": {
       "title": "Misioni Ynë",
-      "description": "T'i japim çdo biznesi që punon me klientë një punonjës AI që nuk fle kurrë, nuk harron kurrë dhe nuk humbet kurrë një klient. Po ndërtojmë shtresën operacionale ndërmjet bizneseve dhe klientëve të tyre."
+      "description": "T'i japim çdo biznesi që punon me klientë — duke nisur nga Shqipëria — një punonjës AI që nuk fle kurrë, nuk harron kurrë dhe nuk humbet kurrë një klient. Po ndërtojmë shtresën operacionale ndërmjet bizneseve dhe klientëve të tyre, që asnjë pronar të mos duhet të zgjedhë mes drejtimit të biznesit dhe përgjigjeve ndaj mesazheve."
     },
     "vision": {
       "title": "Vizioni Ynë",
-      "description": "Një botë ku asnjë biznes nuk humbet një klient për shkak të komunikimit të ngadaltë. Ku çdo pyetje trajtohet me kujdes, shpejtësi dhe inteligjencë — pavarësisht madhësisë së biznesit ose ekipit."
+      "description": "Një botë ku asnjë biznes nuk humbet një klient për shkak të komunikimit të ngadaltë. Ku çdo pyetje — qoftë në 3 të natës në WhatsApp ose gjatë festave në Instagram — trajtohet me kujdes, shpejtësi dhe inteligjencë, pavarësisht madhësisë së biznesit ose ekipit."
     },
     "values": [
       { "title": "Ekselencë Operacionale", "description": "Ndërtojmë sisteme që funksionojnë me besueshmëri, çdo herë, për çdo ndërveprim me klientë." },
       { "title": "AI e Përqendruar te Njeriu", "description": "AI-ja jonë përmirëson ekipet njerëzore — nuk i zëvendëson. Menaxhon të përsëritshmet që ekipi juaj të fokusohet në atë që ka rëndësi." },
       { "title": "Inovacion Praktik", "description": "Nuk ndjekim modën. Zgjidhim probleme reale operacionale për biznese reale." },
-      { "title": "Impakt Rajonal", "description": "Duke nisur nga Kosova dhe Shqipëria, po dëshmojmë që produkte AI të klasit botëror mund të ndërtohen kudo." }
+      { "title": "Impakt Rajonal", "description": "Duke nisur nga Shqipëria, po dëshmojmë që produkte AI të klasit botëror mund të ndërtohen kudo." }
     ]
   },
   "pilotPage": {
@@ -409,7 +416,7 @@
         "Merrni 20+ pyetje klientësh në ditë përmes WhatsApp ose Instagram",
         "Operoni në modë, mikpritje, klinika ose shërbime profesionale",
         "Keni ekip prej 2-50 personash",
-        "Bazuar në Kosovë, Shqipëri ose rajonin më të gjerë",
+        "Bazuar në Shqipëri ose rajonin më të gjerë",
         "Hapur ndaj dhënies së feedback-ut dhe iterimit së bashku"
       ]
     }
@@ -432,8 +439,8 @@
       "success": "Faleminderit! Do t'ju kontaktojmë brenda 24 orëve."
     },
     "info": {
-      "email": "hello@frontops-ai.com",
-      "location": "Prishtinë, Kosovë"
+      "email": "info@frontops-ai.com",
+      "location": "Tiranë, Shqipëri"
     }
   }
 }
